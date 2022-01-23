@@ -1,0 +1,14 @@
+cytat-czystosc.wav
+cytat-lad.wav
+cytat-milczenie.wav
+cytat-oszczednosc.wav
+cytat-pokora.wav
+cytat-postanowienie.wav
+cytat-powsciagliwosc.wav
+cytat-pracowitosc.wav
+cytat-spokoj.wav
+cytat-sprawiedliwosc.wav
+cytat-surowosccielesna.wav
+cytat-szczerosc.wav
+cytat-umiar.wav
+links.txt
